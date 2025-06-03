@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 <ul>
   <li>👋 Hi, I’m Genesis</li>
   <li>❤️ Me encanta crear sitios web y programar en Javascript.</li>
